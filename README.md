@@ -1,8 +1,8 @@
-###### FRESCO-RETAIL-PROJECT
+# FRESCO-RETAIL-PROJECT
 ### The data analyses Fresco Retail’s customers’ transaction data to predict return decision using various data points like customer background, payment modes, store types, product nature, etc. 
 ### The objective is to study the influence of different transaction data points and their impact on a customer’s final decision to return the product(s) bought in a transaction.
 
-# Variable Description:
+#### Variable Description:
 * transaction_id: Unique transaction number for each sale
 * Month_code: The month of transaction
 * prod_cat_code: Product category code. A product may have multiple sub-categories
