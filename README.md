@@ -1,5 +1,5 @@
 # FRESCO | RETAIL | PROJECT
-### The data analyses Fresco Retail’s customers’ transaction data to predict return decision using various data points like customer background, payment modes, store types, product nature, etc. 
+### Problem description: The data analyses Fresco Retail’s customers’ transaction data to predict return decision using various data points like customer background, payment modes, store types, product nature, etc. 
 ### The objective is to study the influence of different transaction data points and their impact on a customer’s final decision to return the product(s) bought in a transaction.
 
 ![2018-seg-fresco-y-mas-tampa-032a-deremer-studios-llc_1200xx5531-3111-0-288](https://user-images.githubusercontent.com/88396377/137611468-c4da65b8-1407-439a-ad86-91bc12b0794a.jpg)
@@ -27,3 +27,4 @@
 * Profession_Code: Customer’s profession code
 * Profession Type: Type of profession (Salaried, Self Employed, Others)
 * City_code: City identification code assigned to each city RETURN: This is our target variable that stores the response of whether the transaction was finally returned by the customer.
+* RETURN: This is our target variable that stores the response of whether the transaction was finally returned by the customer.
